@@ -5,6 +5,8 @@ The original **PearlTracker** was created by **Chadow** over on the EQmight Disc
 
 Full disclosure: I cannot code my way out of a wet paper sack. This update was **100% vibe-coded using AI** just to get things working again with recent server updates.
 
+Please run this script with "/lua run pt" (or whatever you name the folder as)
+
 ---
 
 ### What Changed in This Version
