@@ -3,7 +3,7 @@
 ### Credits & Disclaimer
 The original **PearlTracker** was created by **Chadow** over on the EQmight Discord. All credit for the actual foundation goes to them! 
 
-Full disclosure: I cannot code my way out of a wet paper sack. This update was **100% vibe-coded using AI** just to get things working again with recent server updates.
+Full disclosure: I cannot code my way out of a wet paper sack. This update was **100% vibe-coded using AI** with recent server updates.
 
 Please run this script with "/lua run pt" (or whatever you name the folder as)
 
@@ -21,8 +21,3 @@ Please run this script with "/lua run pt" (or whatever you name the folder as)
 The original script didn't list a license, so I'm keeping it informal:
 * If you want to fork this, fix it up, or completely redesign it, go right ahead! 
 * All I ask is a quick nod/verbal shoutout to **Chadow** (for the original) and myself if you pass it along.
-
----
-
-### Issues & Bugs
-Since AI wrote basically all of this while I held its hand, there might be bugs or weird behavior. If something breaks or you have an idea for an improvement, feel free to **open an Issue or Pull Request** here on GitHub. I'll throw it back at the AI and try my best to get it sorted out!
